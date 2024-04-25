@@ -1,3 +1,8 @@
+## Links
+
+- Laporan Akhir Ujian Kompetensi Keahlian ada [disini](https://github.com/ahdan935/gallery-app/blob/main/public/Laporan%20UKK%20RPL.docx)
+- Design Figma ada [disini](https://www.figma.com/file/8FmEfUwjvE8gDzgAwMAc8n/Gallery?type=design&node-id=0%3A1&mode=design&t=uZFTbpVOTrm9VGRD-1)
+
 ## Prerequisite
 
 - PHP
