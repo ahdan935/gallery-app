@@ -17,11 +17,12 @@
    php artisan migrate --seed
    php artisan storage:link
    ```
-4. Lalu jalankan 2 server di 2 command line berbeda:
+4. Lalu jalankan perintah ini di 2 command line berbeda:
    ```
    npm run dev
    ```
    dan
+   
    ```
    php artisan serv
    ```
